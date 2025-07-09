@@ -7,7 +7,7 @@ import Image from "next/image"
 
 export default function KaratePage() {
   return (
-    <div className="min-h-screen bg-black text-white overflow-x-hidden">
+      <div className="min-h-screen bg-black text-white overflow-x-hidden">
       {/* Animated Background */}
       <div className="fixed inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-900/20 via-black to-purple-900/20"></div>
@@ -253,8 +253,7 @@ export default function KaratePage() {
                 <CardDescription className="text-gray-300 text-base leading-relaxed">
                   Master Chen is a 7th Dan black belt who seamlessly blends traditional karate with modern sports
                   science. With a background in kinesiology and 25 years of teaching experience, he specializes in
-                  biomechanics and injury prevention. His analytical approach to martial arts helps students understand
-                  the 'why' behind every technique, making him particularly effective with adult learners.
+                  biomechanics and injury prevention. His analytical approach to martial arts helps students understand the &lsquo;why&rsquo; behind every technique, making him particularly effective with adult learners.
                 </CardDescription>
                 <div className="flex items-center gap-2 mt-4">
                   <Users className="h-4 w-4 text-yellow-400" />
