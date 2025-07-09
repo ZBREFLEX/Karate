@@ -251,10 +251,11 @@ export default function KaratePage() {
               <CardHeader>
                 <CardTitle className="text-2xl text-cyan-400">Master Renshi N .A . Naseer</CardTitle>
                 <CardDescription className="text-gray-300 text-base leading-relaxed">
-                  Master Chen is a 7th Dan black belt who seamlessly blends traditional karate with modern sports
-                  science. With a background in kinesiology and 25 years of teaching experience, he specializes in
-                  biomechanics and injury prevention. His analytical approach to martial arts helps students understand the &lsquo;why&rsquo; behind every technique, making him particularly effective with adult learners.
-                </CardDescription>
+  Master Chen is a 7th Dan black belt who seamlessly blends traditional karate with modern sports
+  science. With a background in kinesiology and 25 years of teaching experience, he specializes in
+  biomechanics and injury prevention. His analytical approach to martial arts helps students understand the &lsquo;why&rsquo; behind every technique, making him particularly effective with adult learners.
+</CardDescription>
+
                 <div className="flex items-center gap-2 mt-4">
                   <Users className="h-4 w-4 text-yellow-400" />
                   <span className="text-sm text-gray-400">Sensei</span>
