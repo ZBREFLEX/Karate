@@ -453,12 +453,12 @@ export default function KaratePage() {
                 <Sword className="h-6 w-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
-                DRAGON FIST DOJO
+                 OKINAWA SHORIN-RYU KARATE
               </span>
             </div>
             <p className="text-gray-400 mb-6">Forging warriors of discipline, strength, and honor since 1985</p>
             <p className="text-gray-500 text-sm">
-              &copy; {new Date().getFullYear()} Dragon Fist Dojo. All rights reserved.
+              &copy; {new Date().getFullYear()}  OKINAWA SHORIN-RYU KARATE. All rights reserved.
             </p>
           </div>
         </div>
